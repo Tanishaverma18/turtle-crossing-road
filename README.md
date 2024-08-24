@@ -5,4 +5,4 @@ Welcome to the Turtle Road Crossing Game, a fun and challenging game built using
 * Level-Up Mechanics: The game increases in difficulty as the turtle successfully crosses the road, with cars speeding up at each level.<br>
 * Simple Controls: Use the upward arrow key to move the turtle up.<br>
 * Collision Detection: The game ends if the turtle collides with a car.<br>
-* Score Tracking: Keep track of your progress with a score that increases as you level up.><br>
+* Score Tracking: Keep track of your progress with a score that increases as you level up.<br>
